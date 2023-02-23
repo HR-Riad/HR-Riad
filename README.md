@@ -24,7 +24,11 @@ Skills: JAVA / C /  JS /  HTML  /  CSS / PYTHON / BOOTSTRAP / TAILWIND / MYSQL /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Riad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HR-Riad&show_icons=true&count_private=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HR-Riad&show_icons=true&count_private=true)
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HR-Riad&theme=dracula)](https://github.com/HR-Riad/github-readme-activity-graph)
+
+
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HR-Riad&bg_color=e6adad&color=d60000&line=9e2496&point=190b0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HR-Riad)  
