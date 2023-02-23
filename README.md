@@ -1,9 +1,8 @@
 
-![Web Developer] 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.sv](https://drive.google.com/file/d/1ec4d2HRvvKdckPxMgAI_RINiXsBYlD4m/view?usp=share_link)' ' height='40' width = "60">]
+![Software Engineer] 
 ### Hi there 👋, 
 I'm Md Hasanur Rahman Riad
-##### Web Developer
+##### Software Engineer
 
 
 I'm Md Hasanur Rahman Riad from Bangladesh & studying at Daffodil International University. I am a Computer Engineering student and a web developer. I'm interested in learning web development ❤️ to grow my knowledge in these Technologies.
