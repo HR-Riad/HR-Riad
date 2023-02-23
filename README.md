@@ -6,9 +6,9 @@ I'm Md Hasanur Rahman Riad
 
 I'm Md Hasanur Rahman Riad from Bangladesh & studying at Daffodil International University. I am a Computer Engineering student and a web developer. I'm interested in learning web development ❤️ to grow my knowledge in these Technologies.
 
-Skills: JAVA / C /  JS /  HTML  /  CSS / PYTHON / BOOTSTRAP / TAILWIND / MYSQL
+Skills: JAVA / C /  JS /  HTML  /  CSS / PYTHON / BOOTSTRAP / TAILWIND / MYSQL / Spring Boot
 
-- 🌱 I’m currently learning JAVASCRIPT. 
+- 🌱 I’m currently learning Java. 
 - 👯 I’m looking to collaborate on  GITHUB. 
 - 💬 Ask me about Web Development.  
 - 😄 Pronouns:  He/Him . 
