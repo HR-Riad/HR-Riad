@@ -4,7 +4,8 @@ I'm Md Hasanur Rahman Riad
 ##### Software Engineer
 
 
-I'm Md Hasanur Rahman Riad from Bangladesh & studying at Daffodil International University. I am a Computer Engineering student and a web developer. I'm interested in learning web development ❤️ to grow my knowledge in these Technologies.
+I'm Md Hasanur Rahman Riad from Bangladesh & Completed Bsc in Cse from Daffodil International University. I'm interested in Software Ebgineering ❤️ to grow my knowledge in these Technologies and also eager to learn and devoted to my obligations and responsibilities. Inquisitive
+about problem-solving and achieving goals. Enjoy newer challenges and face them with an optimistic attitude
 
 Skills: JAVA / C /  JS /  HTML  /  CSS / PYTHON / BOOTSTRAP / TAILWIND / MYSQL / Spring Boot
 
